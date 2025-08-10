@@ -1,0 +1,201 @@
+﻿Ano_Contratacao,Nome,Idade,Cargo,Salario,Cidade,Modalidade_Trabalho,Senioridade
+2013,Gabriela,21.0,Gerente de Projetos,5913.0,Curitiba,,EN
+2014,Lucas,28.0,Coordenador de TI,,São Paulo,Híbrido,MI
+2024,Ana,26.0,Cientista de Dados,11892.0,Rio de Janeiro,Presencial,
+2012,Eduarda,45.0,Engenheiro de Dados,9800.0,Rio de Janeiro,Presencial,EX
+2019,Gabriela,29.0,Gerente de Projetos,9966.0,Rio de Janeiro,,
+2013,Nicolas,35.0,Analista de Dados,16048.0,Porto Alegre,Remoto,EX
+2024,Paulo,35.0,Estagiário,15217.0,Curitiba,Remoto,EN
+2024,Ana,35.0,Engenheiro de Dados,19726.0,Curitiba,,EX
+2017,Renata,59.0,Cientista de Dados,2661.0,,Híbrido,
+2015,Mariana,29.0,Engenheiro de Dados,12042.0,Curitiba,Híbrido,
+2021,Lucas,42.0,Gerente de Projetos,,Rio de Janeiro,,MI
+2024,Gabriela,40.0,Gerente de Projetos,3062.0,,Presencial,SE
+2015,Lucas,41.0,Coordenador de TI,3731.0,Belo Horizonte,Híbrido,EN
+2011,Isabela,20.0,Estagiário,9824.0,Curitiba,Presencial,EN
+2012,Isabela,50.0,Cientista de Dados,19791.0,Curitiba,Híbrido,
+2014,Paulo,60.0,Estagiário,10776.0,,,MI
+2019,Olivia,,Engenheiro de Dados,19412.0,Porto Alegre,Presencial,MI
+2018,Eduarda,59.0,Coordenador de TI,,São Paulo,Remoto,EX
+2019,Lucas,57.0,Consultor de BI,11365.0,,Presencial,
+2024,Olivia,44.0,Estagiário,3431.0,Porto Alegre,,SE
+2011,Henrique,22.0,Gerente de Projetos,11857.0,Belo Horizonte,,EN
+2021,Isabela,44.0,Analista de Dados,2961.0,Belo Horizonte,Presencial,
+2010,Nicolas,39.0,Gerente de Projetos,,,,MI
+2015,Diego,41.0,Estagiário,4928.0,Curitiba,Presencial,MI
+2016,Ana,43.0,Estagiário,6932.0,Porto Alegre,Remoto,EX
+2023,Carla,31.0,Gerente de Projetos,13840.0,Brasília,Presencial,
+2022,Diego,54.0,Gerente de Projetos,9768.0,Porto Alegre,Híbrido,
+2013,Bruno,20.0,Gerente de Projetos,6419.0,Rio de Janeiro,Presencial,EN
+2020,Sofia,,Analista de Dados,14028.0,São Paulo,Híbrido,SE
+2015,Henrique,24.0,Estagiário,,Rio de Janeiro,,
+2016,João,,Cientista de Dados,16592.0,Porto Alegre,Presencial,EX
+2010,Carla,34.0,Consultor de BI,13669.0,São Paulo,Híbrido,EN
+2013,Henrique,38.0,Cientista de Dados,,Belo Horizonte,Presencial,EN
+2014,Renata,44.0,Estagiário,16280.0,São Paulo,Presencial,SE
+2017,Lucas,29.0,Coordenador de TI,5387.0,,Presencial,MI
+2011,Isabela,26.0,Cientista de Dados,4064.0,Brasília,Presencial,
+2023,Carla,58.0,Estagiário,17238.0,Rio de Janeiro,,EN
+2021,Sofia,57.0,Estagiário,6387.0,Porto Alegre,Híbrido,EN
+2021,Carla,39.0,Coordenador de TI,10871.0,Curitiba,Híbrido,EX
+2010,Isabela,46.0,Gerente de Projetos,,Porto Alegre,,EN
+2018,Eduarda,51.0,Consultor de BI,,Curitiba,Presencial,MI
+2011,Carla,46.0,Analista de Dados,8287.0,,Presencial,EX
+2014,Olivia,,Engenheiro de Dados,16388.0,Rio de Janeiro,Híbrido,SE
+2021,Henrique,36.0,Gerente de Projetos,11575.0,São Paulo,,EX
+2020,Bruno,33.0,Coordenador de TI,8230.0,Brasília,Presencial,SE
+2021,João,55.0,Analista de Dados,,Brasília,Híbrido,
+2024,Victor,31.0,Gerente de Projetos,16043.0,Brasília,Híbrido,EX
+2013,Victor,46.0,Engenheiro de Dados,17574.0,Brasília,Remoto,MI
+2017,Isabela,58.0,Gerente de Projetos,6467.0,São Paulo,,EX
+2022,Fernando,52.0,Consultor de BI,,Belo Horizonte,Remoto,
+2017,Karla,60.0,Estagiário,11846.0,Rio de Janeiro,Presencial,
+2016,Gabriela,20.0,Consultor de BI,18072.0,Belo Horizonte,,MI
+2015,Eduarda,54.0,Coordenador de TI,4042.0,Belo Horizonte,Híbrido,
+2010,Isabela,44.0,Gerente de Projetos,14849.0,Rio de Janeiro,Remoto,EN
+2011,Bruno,34.0,Coordenador de TI,8518.0,Brasília,Híbrido,SE
+2012,Paulo,51.0,Coordenador de TI,,Brasília,Remoto,EN
+2010,Lucas,25.0,Cientista de Dados,19740.0,São Paulo,,
+2011,Carla,46.0,Coordenador de TI,14985.0,Belo Horizonte,Presencial,
+2019,Nicolas,49.0,Estagiário,,Porto Alegre,Remoto,
+2016,Henrique,58.0,Consultor de BI,10690.0,Curitiba,,EN
+2010,Isabela,51.0,Cientista de Dados,12920.0,,Presencial,MI
+2011,Karla,53.0,Engenheiro de Dados,8216.0,Brasília,,MI
+2012,Lucas,54.0,Estagiário,14511.0,Belo Horizonte,,
+2012,Bruno,48.0,Consultor de BI,2532.0,Rio de Janeiro,Presencial,
+2015,Paulo,54.0,Coordenador de TI,,,Remoto,SE
+2022,Diego,28.0,Consultor de BI,10020.0,Rio de Janeiro,,MI
+2019,Renata,50.0,Analista de Dados,4650.0,,Presencial,EN
+2021,Tiago,48.0,Estagiário,8993.0,Porto Alegre,Híbrido,MI
+2011,Diego,35.0,Engenheiro de Dados,,Brasília,Híbrido,EN
+2014,Karla,58.0,Estagiário,13157.0,Rio de Janeiro,,
+2019,Isabela,55.0,Estagiário,4950.0,Rio de Janeiro,Remoto,EN
+2012,Gabriela,42.0,Consultor de BI,18995.0,Porto Alegre,,
+2011,Isabela,,Gerente de Projetos,5677.0,Porto Alegre,Presencial,
+2015,Victor,31.0,Consultor de BI,10800.0,,Remoto,EX
+2013,Nicolas,26.0,Estagiário,3847.0,Belo Horizonte,Híbrido,EN
+2023,Mariana,20.0,Gerente de Projetos,2847.0,São Paulo,,EN
+2023,Mariana,,Cientista de Dados,,Brasília,Híbrido,EX
+2013,Sofia,59.0,Analista de Dados,11635.0,Curitiba,Híbrido,EX
+2012,Nicolas,34.0,Gerente de Projetos,7163.0,,Remoto,MI
+2014,Eduarda,49.0,Engenheiro de Dados,5902.0,São Paulo,Híbrido,EX
+2013,Lucas,54.0,Gerente de Projetos,5806.0,,Presencial,EX
+2020,Olivia,42.0,Cientista de Dados,19740.0,,,EN
+2016,Mariana,36.0,Estagiário,,Rio de Janeiro,Remoto,MI
+2022,Paulo,55.0,Cientista de Dados,18232.0,Porto Alegre,,EN
+2021,Sofia,59.0,Gerente de Projetos,12478.0,Rio de Janeiro,Remoto,
+2023,Carla,24.0,Engenheiro de Dados,6741.0,Curitiba,,EN
+2013,Henrique,22.0,Cientista de Dados,12430.0,Brasília,Remoto,EX
+2016,Sofia,31.0,Gerente de Projetos,,Curitiba,Presencial,EN
+2020,João,55.0,Consultor de BI,18937.0,Brasília,Remoto,EX
+2020,Henrique,38.0,Consultor de BI,19264.0,,Remoto,MI
+2019,Lucas,43.0,Cientista de Dados,11465.0,Porto Alegre,,
+2012,Paulo,29.0,Engenheiro de Dados,19237.0,Curitiba,,EN
+2012,Renata,37.0,Consultor de BI,13313.0,São Paulo,Remoto,EX
+2019,Paulo,31.0,Engenheiro de Dados,,Belo Horizonte,,SE
+2013,Olivia,60.0,Engenheiro de Dados,7067.0,Belo Horizonte,Remoto,SE
+2015,Henrique,42.0,Estagiário,9666.0,Brasília,Remoto,EX
+2015,Renata,30.0,Estagiário,2744.0,São Paulo,Remoto,
+2013,Carla,32.0,Analista de Dados,17609.0,Curitiba,,EX
+2013,Ana,,Gerente de Projetos,8853.0,Porto Alegre,Presencial,EN
+2014,Olivia,40.0,Consultor de BI,9340.0,Porto Alegre,Híbrido,EN
+2019,Diego,27.0,Analista de Dados,8111.0,Curitiba,Híbrido,
+2016,Tiago,45.0,Estagiário,6358.0,São Paulo,,SE
+2010,Victor,56.0,Cientista de Dados,3722.0,São Paulo,Presencial,EX
+2012,Renata,31.0,Gerente de Projetos,2992.0,Belo Horizonte,Remoto,SE
+2020,Renata,37.0,Gerente de Projetos,,,Híbrido,EN
+2016,Mariana,52.0,Engenheiro de Dados,,Rio de Janeiro,Presencial,MI
+2013,Tiago,23.0,Gerente de Projetos,,Porto Alegre,,EX
+2020,Olivia,54.0,Cientista de Dados,16759.0,Porto Alegre,Presencial,
+2024,Renata,42.0,Coordenador de TI,19587.0,Belo Horizonte,Presencial,MI
+2017,Lucas,21.0,Cientista de Dados,9110.0,São Paulo,Híbrido,SE
+2023,Olivia,53.0,Consultor de BI,8514.0,Belo Horizonte,Híbrido,EN
+2013,Paulo,33.0,Gerente de Projetos,5489.0,Porto Alegre,,MI
+2020,Eduarda,46.0,Cientista de Dados,2662.0,,,EN
+2010,Diego,,Analista de Dados,,Porto Alegre,Remoto,EN
+2024,Olivia,39.0,Estagiário,13078.0,,,EX
+2023,Ana,30.0,Coordenador de TI,,,Presencial,EN
+2015,Mariana,,Coordenador de TI,,Belo Horizonte,Presencial,EN
+2017,Diego,27.0,Coordenador de TI,5610.0,,Remoto,MI
+2019,Fernando,50.0,Estagiário,7718.0,Brasília,Remoto,MI
+2022,Ana,54.0,Estagiário,18036.0,Rio de Janeiro,,EN
+2019,Tiago,32.0,Engenheiro de Dados,9140.0,,,MI
+2012,Olivia,33.0,Estagiário,,Belo Horizonte,,
+2010,Tiago,,Coordenador de TI,,Brasília,Remoto,SE
+2020,Eduarda,40.0,Consultor de BI,17424.0,São Paulo,Híbrido,
+2013,Eduarda,28.0,Cientista de Dados,11540.0,São Paulo,Remoto,EX
+2011,Isabela,46.0,Gerente de Projetos,10778.0,Brasília,Remoto,
+2022,Nicolas,24.0,Cientista de Dados,18406.0,Brasília,Remoto,EX
+2015,Olivia,,Engenheiro de Dados,12498.0,Porto Alegre,Presencial,SE
+2021,Fernando,50.0,Cientista de Dados,2554.0,Belo Horizonte,Híbrido,MI
+2014,Tiago,21.0,Estagiário,7935.0,Rio de Janeiro,Remoto,
+2015,Gabriela,47.0,Consultor de BI,4582.0,Belo Horizonte,Remoto,EX
+2017,Karla,60.0,Coordenador de TI,11529.0,Porto Alegre,Híbrido,MI
+2021,Paulo,27.0,Estagiário,15176.0,Brasília,Remoto,SE
+2013,Diego,33.0,Estagiário,3929.0,,Presencial,MI
+2010,Diego,32.0,Estagiário,5254.0,Brasília,Híbrido,EX
+2015,Renata,,Engenheiro de Dados,,,Remoto,MI
+2012,Victor,,Estagiário,,Belo Horizonte,Remoto,MI
+2024,Olivia,,Consultor de BI,,Brasília,Remoto,MI
+2014,Ana,54.0,Coordenador de TI,12087.0,,,SE
+2018,João,42.0,Cientista de Dados,11512.0,Belo Horizonte,Presencial,EX
+2017,Mariana,34.0,Cientista de Dados,3867.0,Rio de Janeiro,Remoto,SE
+2011,Paulo,35.0,Gerente de Projetos,3028.0,Porto Alegre,Remoto,MI
+2022,Nicolas,32.0,Analista de Dados,5045.0,Belo Horizonte,Híbrido,SE
+2010,Renata,60.0,Gerente de Projetos,,,Híbrido,MI
+2013,Diego,44.0,Gerente de Projetos,13590.0,Belo Horizonte,,SE
+2015,Gabriela,27.0,Estagiário,7602.0,Belo Horizonte,Presencial,EX
+2014,Mariana,52.0,Estagiário,16054.0,Belo Horizonte,Híbrido,EN
+2021,Olivia,20.0,Estagiário,9798.0,São Paulo,Híbrido,EN
+2024,Eduarda,33.0,Coordenador de TI,14139.0,,Remoto,EN
+2019,Nicolas,27.0,Cientista de Dados,16984.0,,Presencial,EX
+2011,Karla,41.0,Estagiário,12096.0,Brasília,Remoto,EN
+2019,Gabriela,48.0,Estagiário,,São Paulo,Presencial,
+2010,Eduarda,,Consultor de BI,10859.0,,Remoto,MI
+2023,Fernando,21.0,Coordenador de TI,,,Remoto,EN
+2012,Olivia,55.0,Estagiário,17852.0,Rio de Janeiro,,
+2017,Diego,24.0,Coordenador de TI,19086.0,,Híbrido,EN
+2016,Eduarda,53.0,Cientista de Dados,16266.0,Rio de Janeiro,Presencial,SE
+2018,Tiago,,Analista de Dados,19813.0,,Remoto,SE
+2013,Mariana,27.0,Engenheiro de Dados,7173.0,Curitiba,Híbrido,MI
+2015,Mariana,59.0,Cientista de Dados,10563.0,Belo Horizonte,Híbrido,EX
+2024,Gabriela,22.0,Analista de Dados,19621.0,Curitiba,,MI
+2014,Paulo,51.0,Analista de Dados,19718.0,Curitiba,Presencial,MI
+2010,Lucas,54.0,Gerente de Projetos,8735.0,São Paulo,Híbrido,SE
+2016,Diego,41.0,Estagiário,4706.0,,,EX
+2018,Olivia,40.0,Analista de Dados,19760.0,Porto Alegre,Remoto,
+2016,Olivia,,Coordenador de TI,14192.0,Belo Horizonte,Presencial,SE
+2022,Bruno,38.0,Engenheiro de Dados,17656.0,,Remoto,EN
+2014,Victor,21.0,Engenheiro de Dados,6478.0,São Paulo,,
+2010,Tiago,29.0,Estagiário,5422.0,São Paulo,,EX
+2011,Bruno,26.0,Engenheiro de Dados,15058.0,Porto Alegre,,EN
+2010,Henrique,50.0,Analista de Dados,11883.0,,Presencial,EX
+2021,Ana,60.0,Consultor de BI,11884.0,Curitiba,Híbrido,SE
+2011,Mariana,58.0,Engenheiro de Dados,9067.0,Brasília,Presencial,SE
+2014,Carla,42.0,Estagiário,9714.0,São Paulo,Presencial,EN
+2013,Isabela,25.0,Analista de Dados,14428.0,Porto Alegre,Híbrido,EX
+2014,Paulo,30.0,Analista de Dados,19209.0,Rio de Janeiro,,MI
+2014,Nicolas,45.0,Engenheiro de Dados,9322.0,Curitiba,Híbrido,
+2018,Mariana,22.0,Gerente de Projetos,,Porto Alegre,Remoto,
+2022,Henrique,52.0,Coordenador de TI,17155.0,Curitiba,Presencial,EN
+2014,Bruno,,Gerente de Projetos,10181.0,Brasília,Híbrido,EN
+2010,Sofia,53.0,Engenheiro de Dados,,Belo Horizonte,,EN
+2015,Mariana,24.0,Coordenador de TI,15760.0,Belo Horizonte,Remoto,MI
+2022,Renata,44.0,Gerente de Projetos,16417.0,Curitiba,Remoto,EN
+2022,Fernando,26.0,Engenheiro de Dados,,Curitiba,Remoto,EN
+2020,João,24.0,Consultor de BI,3022.0,Belo Horizonte,Híbrido,EX
+2020,Karla,,Gerente de Projetos,19722.0,Rio de Janeiro,,EN
+2016,Isabela,,Coordenador de TI,16479.0,Rio de Janeiro,Presencial,SE
+2011,Ana,58.0,Engenheiro de Dados,,São Paulo,,MI
+2022,Lucas,20.0,Coordenador de TI,9590.0,Porto Alegre,Remoto,EN
+2021,Tiago,43.0,Cientista de Dados,16342.0,Rio de Janeiro,,
+2022,Isabela,38.0,Estagiário,6992.0,Porto Alegre,Remoto,EN
+2021,Fernando,42.0,Cientista de Dados,,Belo Horizonte,Híbrido,SE
+2017,Tiago,50.0,Consultor de BI,13787.0,Curitiba,,SE
+2020,Nicolas,26.0,Estagiário,15477.0,São Paulo,Híbrido,EX
+2024,Carla,40.0,Coordenador de TI,10248.0,Rio de Janeiro,Híbrido,EX
+2018,Karla,52.0,Estagiário,9078.0,Brasília,Presencial,MI
+2024,Gabriela,,Coordenador de TI,17934.0,Brasília,Híbrido,EN
+2011,Nicolas,52.0,Coordenador de TI,7585.0,Brasília,Híbrido,SE
+2011,Ana,40.0,Coordenador de TI,5185.0,Brasília,Híbrido,EN
+2023,Paulo,31.0,Gerente de Projetos,14786.0,,Presencial,
